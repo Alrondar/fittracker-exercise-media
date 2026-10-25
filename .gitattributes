@@ -1,0 +1,4 @@
+*.jpg binary
+*.png binary
+*.webp binary
+.DS_Store
